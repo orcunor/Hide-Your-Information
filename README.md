@@ -8,7 +8,7 @@ Basit bir python uygulaması, bilgilerinizi saklayabilceğiniz bir frame.(email,
         Email(username): bilmemne2@gmail.com
         Şifre(Password): 123321
 
-Uygulamanın sizden başka birinin ulaşamaması için sadece sizin bildiğiniz bir şifre ile giriş yapılıyor. Daha sonra kaydetmek istediğiniz bilgileri kaydedip çıkış yaptığınızda bile bilgileriniz kaybolmuyor. İstediğiniz zaman silebileceğiniz unuttuğunuz veya karıştırdığınız şifreler için geliştirilen bir uygulama.
+Uygulamaya sizden başka birinin ulaşamaması için sadece sizin bildiğiniz bir şifre ile giriş yapılıyor. Daha sonra kaydetmek istediğiniz bilgileri kaydedip çıkış yaptığınızda bile bilgileriniz kaybolmuyor. İstediğiniz zaman silebileceğiniz, unuttuğunuz veya karıştırdığınız şifreler için geliştirilen bir uygulama.
 
 
 
