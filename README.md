@@ -1,5 +1,5 @@
 # Bilgileri-Sakla
-Basit bir python uygulaması, bilgilerinizi saklayabilceğiniz bir frame.(email,user,password)
+Basit bir python uygulaması, bilgilerinizi saklayabilceğiniz bir uygulama.(email,user,password)
 
 Örnek:  Başlık: Facebook
         Email(username): bilmemne@gmail.com
