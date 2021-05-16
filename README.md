@@ -1,14 +1,14 @@
-# Bilgileri-Sakla
-Basit bir python uygulaması, bilgilerinizi saklayabilceğiniz bir uygulama.(email,user,password)
+# Hide-Your-Information
+A simple python application, an application where you can store your information.(email,user,password)
 
-Örnek:  Başlık: Facebook
-        Email(username): bilmemne@gmail.com
-        Şifre(Password): 123456789
-        Başlık: Twitter
-        Email(username): bilmemne2@gmail.com
-        Şifre(Password): 123321
+Example: Title: Facebook
+         Email (username): bilemne@gmail.com
+         Password: 123456789
+         Title: Twitter
+         Email (username): bilemne2@gmail.com
+         Password: 123321
 
-Uygulamaya sizden başka birinin ulaşamaması için sadece sizin bildiğiniz bir şifre ile giriş yapılıyor. Daha sonra kaydetmek istediğiniz bilgileri kaydedip çıkış yaptığınızda bile bilgileriniz kaybolmuyor. İstediğiniz zaman silebileceğiniz, unuttuğunuz veya karıştırdığınız şifreler için geliştirilen bir uygulama.
+In order to prevent anyone other than you from accessing the application, a password is only known by you. Even when you save the information you want to save later and exit, your information will not be lost. An application developed for passwords that you can delete, forget or shuffle whenever you want.
 
 
 
