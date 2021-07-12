@@ -1,5 +1,5 @@
 # Hide-Your-Information
-A simple python application, an application where you can store your information.(email,user,password)
+A sample application, an application where you can store your information.(email,user,password)
 
 Example: Title: Facebook
          Email (username): bilemne@gmail.com
